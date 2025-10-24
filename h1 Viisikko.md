@@ -1,8 +1,6 @@
-1. testi
+x)  -  
 
-x)  -
-
-a) -
-b) abc
-c) abc
-d) abc
+a) -  
+b) abc  
+c) abc  
+d) abc  
