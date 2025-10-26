@@ -55,6 +55,8 @@ b)
 19:14 salt --version  
 19:28 salt-call --local state.single file.managed /tmp/hellotero file  
 19:29 ls /tmp/hellotero  
+19:30 exit  
+19:30 exit  
 
 c) abc  
 d) abc  
