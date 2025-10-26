@@ -15,7 +15,7 @@ Karvinen 2023: Run Salt Command Locally
 Karvinen 2018: Salt Quickstart – Salt Stack Master and Slave on Ubuntu Linux  
 -
 - Nopea ohje Saltin käyttöön
-- Lyhyesti: Asenna mestari ja orjapalvelin. Hyväksy orja-avain mestarilla. Tämän jälkeen testaa toimivuus.
+- Lyhyesti: Asenna mestari ja orja. Hyväksy orja-avain mestarilla. Tämän jälkeen testaa toimivuus.
 + Tämän mukaan vain pääpalvelin tarvitsee tunnetun osoitteen, mutta orjapalvelimet eivät.
 
 Karvinen 2006: Raportin kirjoittaminen  
