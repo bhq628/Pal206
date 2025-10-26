@@ -28,7 +28,8 @@ Karvinen 2006: Raportin kirjoittaminen
 + Artikkelin tarkoitus on kertoa tärkeimmät seikat kirjoittamisesta. Ei pidä kirjoittaa raamatun verran tekstiä, mutta tekstisi on oltava yksityiskohtainen.
 
 a) Debian 13 Trixie asennuksessa ei ongelmia.  
-b) 18:12 sudo apt-get update  
+b)  
+18:12 sudo apt-get update  
 18:15 VIRHE: "admin1 is not in the sudoers file"  
 18:24 su -  
 18:26 usermod -aG sudo admin1  
@@ -52,6 +53,8 @@ b) 18:12 sudo apt-get update
 19:10 apt-get update
 19:11 apt-get install salt-minion salt-master
 19:14 salt --version  
+19:28 salt-call --local state.single file.managed /tmp/hellotero file  
+19:29 ls /tmp/hellotero  
 
 c) abc  
 d) abc  
