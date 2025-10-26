@@ -28,6 +28,30 @@ Karvinen 2006: Raportin kirjoittaminen
 + Artikkelin tarkoitus on kertoa tärkeimmät seikat kirjoittamisesta. Ei pidä kirjoittaa raamatun verran tekstiä, mutta tekstisi on oltava yksityiskohtainen.
 
 a) Debian 13 Trixie asennuksessa ei ongelmia.  
-b) abc  
+b) 18:12 sudo apt-get update  
+18:15 VIRHE: "admin1 is not in the sudoers file"  
+18:24 su -  
+18:26 usermod -aG sudo admin1  
+18:26 groups admin1  
+18:28 exit  
+18:29 sudo apt-get update  
+18:29 VIRHE: "admin1 is not in the sudoers file"  
+18:32 su -  
+18:32 whoami  
+18:34 groups admin1  
+18:34 apt update  
+18:35 apt install sudo
+18:40 apt-get install wget  
+18:43 mkdir saltrepo/ 
+18:43 cd saltrepo/  
+18:49 wget https://packages.broadcom.com/artifactory/api/security/keypair/SaltProjectKey/public  
+18:51 wget https://github.com/saltstack/salt-install-guide/releases/latest/download/salt.sources  
+18:53 less salt.sources  
+19:09 cp public /etc/apt/keyrings/salt-archive-keyring.pgp  
+19:09 cp salt.sources /etc/apt/sources.list.d/  
+19:10 apt-get update
+19:11 apt-get install salt-minion salt-master
+19:14 salt --version  
+
 c) abc  
 d) abc  
