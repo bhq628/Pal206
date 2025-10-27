@@ -63,6 +63,7 @@ Tässä kohdassa päätin vaihtaa vain juureen, enkä ymmärtänyt miksi käytt�
 19:30 exit  
 
 c) Viisi tärkeintä. Näytä Linuxissa esimerkit viidestä tärkeimmästä Saltin tilafunktiosta: pkg, file, service, user, cmd. Analysoi ja selitä tulokset.  
+-
 d) Idempotentti. Anna esimerkki idempotenssista. Aja 'salt-call --local' komentoja, analysoi tulokset, selitä miten idempotenssi ilmenee.  
 -
 
