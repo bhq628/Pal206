@@ -29,6 +29,7 @@ Karvinen 2006: Raportin kirjoittaminen
 
 a) Asenna Debian 13-Trixie virtuaalikoneeseen. Debian 13 Trixie asennuksessa ei ongelmia.  
 b) Asenna Salt (salt-minion) Linuxille (uuteen virtuaalikoneeseesi).  
+-
 Tässä kaikki komennot, mitä käytin tehtävän aikana:  
 18:12 sudo apt-get update  
 18:15 VIRHE: "admin1 is not in the sudoers file"  
@@ -63,6 +64,7 @@ Tässä kohdassa päätin vaihtaa vain juureen, enkä ymmärtänyt miksi käytt�
 
 c) Viisi tärkeintä. Näytä Linuxissa esimerkit viidestä tärkeimmästä Saltin tilafunktiosta: pkg, file, service, user, cmd. Analysoi ja selitä tulokset.  
 d) Idempotentti. Anna esimerkki idempotenssista. Aja 'salt-call --local' komentoja, analysoi tulokset, selitä miten idempotenssi ilmenee.  
+-
 
 pkg:  
 23:58 su -  
