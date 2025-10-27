@@ -107,7 +107,7 @@ Idempotenssi näkyy siten, että uutta käyttäjää "tero" ei luoda, jos yksi t
 cmd  
 01:21 salt-call --local sys.state_doc  
 01:26 salt-call --local -l info state.single cmd.run 'touch /tmp/foo' creates="/tmp/foo"  
-Tässä Salt ajaa komennon, jonka avulla luotiin "/tmp/foo"  
+Tässä Salt ajaa komennon shellissä, jonka avulla luotiin "/tmp/foo". Salt ei itse luo tiedostoa, vaan tekee tämän shellin kautta.
 Tässä idempotenssi ilmenee, sillä ajettaessa tämän uudestaan muutoksia ei tapahdu, jos haluttu lopputulos on jo saatu.  
 
 Lähteet:  
