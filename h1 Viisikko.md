@@ -65,7 +65,7 @@ c) Viisi tärkeintä. Näytä Linuxissa esimerkit viidestä tärkeimmästä Salt
 d) Idempotentti. Anna esimerkki idempotenssista. Aja 'salt-call --local' komentoja, analysoi tulokset, selitä miten idempotenssi ilmenee.  
 
 pkg:  
-23:58 su -
+23:58 su -  
 23:58 apt-get update  
 00:01 apt-get -y install salt-minion  
 00:01 salt-call --version  
