@@ -6,9 +6,9 @@ Karvinen 2014: Hello Salt Infra-as-Code
 
 Salt contributors: Salt overview:  
 -
-- YAML on formaatti, miten data rakentuu ja näkyy Saltissa  
+YAML on formaatti, miten data rakentuu ja näkyy Saltissa.  
 
-- YAML rakenteen kolme osaa ovat:  
+YAML rakenteen kolme osaa ovat:  
 - Scalars/Skalaarit = Näissä arvoina voi olla numero, merkkijono tai totuusarvo.  
 - Lists/Listat = listoissa on tavuviiva, arvo ja kaksi välilyöntiä lopussa. Arvot esitetään omilla riveillään.  
 - Dictionaries/Sanakirjat = Nämä ovat scalaareista tehtyjä kokoelmia.  
