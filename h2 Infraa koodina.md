@@ -1,3 +1,19 @@
+x)  
+Karvinen 2014: Hello Salt Infra-as-Code  
+-  
+- Tässä luodaan kansio, josta tehdään idempotenttinen  
+- Salt pitää huolen, että kansio on olemassa
+
+Salt contributors: Salt overview:
+- YAML
+
+Specs:  
+
+a)
+b)
+c)
+d)
+
 Aloitus
 09:31  sudo apt-get update  
 09:32 sudo apt-get -y install salt-minion  
