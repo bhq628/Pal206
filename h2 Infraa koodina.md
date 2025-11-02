@@ -60,7 +60,7 @@ Nano editor avautuu ja tehtiin muokkaus:
 
 2.11.2025 Ctrl-x  
 2.11.2025 sudo salt-call --local state.apply hello  
-2.11.2025 ![Komento](images/sudo salt-call --local state.apply hello.png)
+2.11.2025 ![Komento](images/local-state-apply-hello.png)
 
 2.11.2025 
 2.11.2025 
