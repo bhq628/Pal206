@@ -80,7 +80,8 @@ Uusi syntaksi virhe.
 ![Uusi syntaksi virhe. Välimäärä](images/syntax2.png)  
 2.11.2025 20:03 sudo nano hello.sls  
 
-![]()
+Lisättiin välejä ennen "tämä on testi"  
+![Välien korjaus](images/välit.png)  
 
 
 
