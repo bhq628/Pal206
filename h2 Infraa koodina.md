@@ -134,7 +134,9 @@ Testaus, jossa tavallinen sisennys ja syntaksi virhe.
 Lisätty kaksi välilyöntiä viimeisen rivin alkuun, missä tekstiä.  
 ![2-väliä](images/välit2.png)
 
+Testaukset
 ![toimii](images/tm.png)  
+![toimii2](images/toiseen.png)  
 
 Lähteet: Karvinen, Tero 2024. Hello Salt Infra-as-Code. Luettavissa: https://terokarvinen.com/2024/hello-salt-infra-as-code/  
 Salt Project. (n.d.). Salt user guide. Luettavissa: https://docs.saltproject.io/salt/user-guide/en/latest/topics/overview.html#rules-of-yaml  
