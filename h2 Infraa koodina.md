@@ -110,8 +110,8 @@ Päivitetty top.sls tiedosto:
 ![top](images/top-status.png)  
 2.11.2025 21:54 sudo salt-call --local state.apply  
 
-Virhe tiedostossa hellocmd  
-![]()  
+Kaikkien moduulien testi:   
+![kokeilu](images/viim1.png)  
 2.11.2025 20:  
 2.11.2025 20:  
 2.11.2025 20:  
