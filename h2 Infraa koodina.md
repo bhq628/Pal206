@@ -77,8 +77,9 @@ Korjaus tiedostoon. Lisättiin kaksoispiste ensimmäisen rivin loppuun.
 
 2.11.2025 sudo salt-call --local state.apply  
 Uusi syntaksi virhe.  
-
+![Uusi syntaksi virhe. Välimäärä](images/syntax2.png)
 2.11.2025 20:03 sudo nano hello.sls
+
 
 
 c) Tee erilliset esimerkit kustakin viidestä tärkeimmästä tilafunktiosta pkg, file, service, user, cmd.  
