@@ -113,7 +113,7 @@ Päivitetty top.sls tiedosto:
 Kaikkien moduulien testi:   
 ![kokeilu](images/viim1.png)  
 
-ssh ei vain ollut asennettuna  
+ssh ei vain ollut asennettuna.  
 
 ![SSH](images/ssh-toimii.png)
 
@@ -132,11 +132,12 @@ Testaus, jossa tavallinen sisennys ja syntaksi virhe.
 ![sisennys](images/tavallinen.png)  
 
 Lisätty kaksi välilyöntiä viimeisen rivin alkuun, missä tekstiä.  
-![2-väliä](images/välit2.png)
+![2-väliä](images/välit2.png)  
 
 Testaukset  
 ![toimii](images/EK.png)  
 ![toimii2](images/toiseen.png)  
+![viimeinen](images/loppu.png)  
 
 Lähteet: Karvinen, Tero 2024. Hello Salt Infra-as-Code. Luettavissa: https://terokarvinen.com/2024/hello-salt-infra-as-code/  
 Salt Project. (n.d.). Salt user guide. Luettavissa: https://docs.saltproject.io/salt/user-guide/en/latest/topics/overview.html#rules-of-yaml  
