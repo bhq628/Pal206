@@ -137,6 +137,8 @@ Testaus, jossa tavallinen sisennys virhe.
 ![sisennys](images/tavallinen.png)  
 
 Lisätty kaksi välilyöntiä viimeisen rivin alkuun, missä tekstiä  
+![2-väliä](images/välit2.png)
+
 ![toimii](images/tm.png)  
 
 Lähteet: Karvinen, Tero 2024. Hello Salt Infra-as-Code. Luettavissa: https://terokarvinen.com/2024/hello-salt-infra-as-code/  
