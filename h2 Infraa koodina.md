@@ -98,12 +98,12 @@ c) Tee erilliset esimerkit kustakin viidestä tärkeimmästä tilafunktiosta pkg
 Luotiin hakemistot:  
 ![mkdir](images/mkdir.png)  
 
-2.11.2025 20:
-Viiden tilafunktion konfiguraatiot (init.sls):  
+2.11.2025 21:22  
+Viiden tilafunktion init.sls tiedostot:  
 ![](images/hellopkg.png)  
 ![](images/hellofile.png)  
 ![](images/hellouser.png)  
-![]()  
+![](images/helloservice.png)  
 ![](images/hellocmd.png)  
 2.11.2025 20:  
 2.11.2025 20:  
