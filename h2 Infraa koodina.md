@@ -135,7 +135,7 @@ Lisätty kaksi välilyöntiä viimeisen rivin alkuun, missä tekstiä.
 ![2-väliä](images/välit2.png)
 
 Testaukset  
-![toimii](images/tm.png)  
+![toimii](images/EK.png)  
 ![toimii2](images/toiseen.png)  
 
 Lähteet: Karvinen, Tero 2024. Hello Salt Infra-as-Code. Luettavissa: https://terokarvinen.com/2024/hello-salt-infra-as-code/  
