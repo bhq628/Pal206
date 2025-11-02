@@ -83,7 +83,10 @@ Uusi syntaksi virhe.
 Lisättiin välejä ennen "tämä on testi"  
 ![Välien korjaus](images/välit.png)  
 
-
+2.11.2025
+2.11.2025
+2.11.2025
+2.11.2025
 
 c) Tee erilliset esimerkit kustakin viidestä tärkeimmästä tilafunktiosta pkg, file, service, user, cmd.  
 
