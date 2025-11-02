@@ -83,11 +83,11 @@ Korjaus tiedostoon. Lisättiin kaksoispiste ensimmäisen rivin loppuun.
 ![Korjaus](images/muutos.png)  
 
 2.11.2025 sudo salt-call --local state.apply  
-Uusi syntaksi virhe.  
+Sisennys virhe.  
 ![Uusi syntaksi virhe. Välimäärä](images/syntax2.png)  
 2.11.2025 20:03 sudo nano hello.sls  
 
-Lisättiin välejä ennen "tämä on testi"  
+Lisättiin 2 väliä ennen "tämä on testi"  
 ![Välien korjaus](images/välit.png)  
 
 2.11.2025 20:13 sudo salt-call --local state.apply hello  
