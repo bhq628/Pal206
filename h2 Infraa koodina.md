@@ -100,17 +100,17 @@ Luotiin hakemistot:
 
 2.11.2025 20:
 Viiden tilafunktion konfiguraatiot (init.sls):  
-![](images/htop.png)  
+![](images/hellopkg.png)  
+![](images/hellofile.png)  
+![](images/hellouser.png)  
 ![]()  
-![]()  
-![]()  
-![]()  
-2.11.2025 20:
-2.11.2025 20:
-2.11.2025 20:
-2.11.2025 20:
-2.11.2025 20:
-2.11.2025 20:
+![](images/hellocmd.png)  
+2.11.2025 20:  
+2.11.2025 20:  
+2.11.2025 20:  
+2.11.2025 20:  
+2.11.2025 20:  
+2.11.2025 20:  
 
 
 d) Tee sls-tiedosto, joka käyttää vähintään kahta eri tilafunktiota näistä: package, file, service, user. Tarkista eri ohjelmalla, että lopputulos on oikea.  
