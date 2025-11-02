@@ -51,7 +51,6 @@ Micro editor avautuu ja sinne lisättiin:
 28.10.2025 09:42 Ctrl-q  
 28.10.2025 09:45 sudo salt-call --local state.apply hello  
 28.10.2025 09:48 sudoedit init.sls  
-28.10.2025 09:48 (kuva tähän tekstieditorin muokkauksesta, se toimii)  
 
 2.11.2025 18:21 cd /srv/salt/hello/  
 2.11.2025 18:21 sudoedit init.sls  
@@ -60,7 +59,7 @@ Nano editor avautuu ja tehtiin muokkaus:
 
 2.11.2025 Ctrl-x  
 2.11.2025 sudo salt-call --local state.apply hello  
-2.11.2025 ![Komento](images/local-state-apply-hello.png)
+![Komento](images/local-state-apply-hello.png)
 
 2.11.2025 
 2.11.2025 
