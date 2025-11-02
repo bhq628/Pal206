@@ -72,13 +72,15 @@ b) Toppping. Tee top-file, niin että kaikki omat tilasi ajetaan kerralla komenn
 Syntaksi virhe.  
 2.11.2025 19:44 ls  
 2.11.2025 19:44 sudo nano hello.sls  
-Korjaus tiedostoon. Lisättiin kaksoispiste ensimmäisen rivin loppuun.
-![Korjaus](images/muutos.png)
+Korjaus tiedostoon. Lisättiin kaksoispiste ensimmäisen rivin loppuun.  
+![Korjaus](images/muutos.png)  
 
 2.11.2025 sudo salt-call --local state.apply  
 Uusi syntaksi virhe.  
-![Uusi syntaksi virhe. Välimäärä](images/syntax2.png)
-2.11.2025 20:03 sudo nano hello.sls
+![Uusi syntaksi virhe. Välimäärä](images/syntax2.png)  
+2.11.2025 20:03 sudo nano hello.sls  
+
+![]()
 
 
 
