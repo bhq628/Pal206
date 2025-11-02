@@ -133,10 +133,10 @@ Top tiedoston muokkaus:
 ![top-tupla](images/top-tupla.png)  
 
 2.11.2025 22:39 sudo salt-call --local state.apply tupla  
-Testaus, jossa tavallinen sisennys virhe.  
+Testaus, jossa tavallinen sisennys ja syntaksi virhe.  
 ![sisennys](images/tavallinen.png)  
 
-Lisätty kaksi välilyöntiä viimeisen rivin alkuun, missä tekstiä  
+Lisätty kaksi välilyöntiä viimeisen rivin alkuun, missä tekstiä.  
 ![2-väliä](images/välit2.png)
 
 ![toimii](images/tm.png)  
