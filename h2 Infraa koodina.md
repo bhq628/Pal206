@@ -32,6 +32,7 @@ RAM: 4096 MB
 
 
 a) Hei infrakoodi! Kokeile paikallisesti (esim 'sudo salt-call --local') infraa koodina. Kirjota sls-tiedosto, joka tekee esimerkkitiedoston /tmp/ -kansioon.  
+-
 
 Aloitus
 28.10.2025 09:31 sudo apt-get update  
@@ -62,6 +63,7 @@ Nano editor avautuu ja tehtiin muokkaus:
 
 
 b) Toppping. Tee top-file, niin että kaikki omat tilasi ajetaan kerralla komennolla 'sudo salt-call --local state.apply'.  
+-
 2.11.2025 19:16 sudo touch top.sls  
 2.11.2025 19:27 sudo nano /srv/salt/hello.sls  
 2.11.2025 19:31 sudo nano top.sls  
@@ -90,8 +92,10 @@ Lisättiin välejä ennen "tämä on testi"
 
 
 c) Tee erilliset esimerkit kustakin viidestä tärkeimmästä tilafunktiosta pkg, file, service, user, cmd.  
+-
 
-d) Tee sls-tiedosto, joka käyttää vähintään kahta eri tilafunktiota näistä: package, file, service, user. Tarkista eri ohjelmalla, että lopputulos on oikea. Osoita useammalla ajolla, että sls-tiedostosi on idempotentti.  
+d) Tee sls-tiedosto, joka käyttää vähintään kahta eri tilafunktiota näistä: package, file, service, user. Tarkista eri ohjelmalla, että lopputulos on oikea.  
+-
 
 Lähteet: Karvinen, Tero 2024. Hello Salt Infra-as-Code. Luettavissa: https://terokarvinen.com/2024/hello-salt-infra-as-code/  
 Salt Project. (n.d.). Salt user guide. Luettavissa: https://docs.saltproject.io/salt/user-guide/en/latest/topics/overview.html#rules-of-yaml  
