@@ -143,4 +143,4 @@ Testaukset
 
 Lähteet: Karvinen, Tero 2024. Hello Salt Infra-as-Code. Luettavissa: https://terokarvinen.com/2024/hello-salt-infra-as-code/  
 Salt Project. (n.d.). Salt user guide. Luettavissa: https://docs.saltproject.io/salt/user-guide/en/latest/topics/overview.html#rules-of-yaml  
-Salt Project. 2025. xxx. Luettavissa: https://docs.saltproject.io/en/latest/ref/states/top.html  
+Salt Project. 2025. The Top File. Luettavissa: https://docs.saltproject.io/en/latest/ref/states/top.html  
