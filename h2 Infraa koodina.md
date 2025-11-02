@@ -115,8 +115,8 @@ Kaikkien moduulien testi:
 
 ssh ei vain ollut asennettuna  
 
-![]()
-2.11.2025 20:  
+![SSH](images/ssh-toimii.png)
+ 
 2.11.2025 20:  
 2.11.2025 20:  
 2.11.2025 20:  
