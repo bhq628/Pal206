@@ -44,8 +44,8 @@ Aloitus
 28.10.2025 09:36 cd /srv/salt/hello/  
 28.10.2025 09:40 sudoedit init.sls  
 Micro editor avautuu ja sinne lisättiin:  
-/tmp/hellotero:
-  file.managed
+/tmp/hellotero:  
+  file.managed  
   
 28.10.2025 09:42 Ctrl-s  
 28.10.2025 09:42 Ctrl-q  
