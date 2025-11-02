@@ -132,6 +132,10 @@ d) Tee sls-tiedosto, joka käyttää vähintään kahta eri tilafunktiota näist
 Top tiedoston muokkaus:  
 ![top-tupla](images/top-tupla.png)  
 
+2.11.2025 22:39 sudo salt-call --local state.apply tupla  
+Testaus, jossa tavallinen syntaksi virhe taas.
+![](images/tavallinen.png)
+
 
 Lähteet: Karvinen, Tero 2024. Hello Salt Infra-as-Code. Luettavissa: https://terokarvinen.com/2024/hello-salt-infra-as-code/  
 Salt Project. (n.d.). Salt user guide. Luettavissa: https://docs.saltproject.io/salt/user-guide/en/latest/topics/overview.html#rules-of-yaml  
