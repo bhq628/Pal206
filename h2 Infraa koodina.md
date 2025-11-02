@@ -108,7 +108,10 @@ Viiden tilafunktion init.sls tiedostot:
 
 Päivitetty top.sls tiedosto:  
 ![top](images/top-status.png)  
-2.11.2025 20:  
+2.11.2025 21:54 sudo salt-call --local state.apply  
+
+Virhe tiedostossa hellocmd  
+![error-cmd](images/error-cmd.png)  
 2.11.2025 20:  
 2.11.2025 20:  
 2.11.2025 20:  
