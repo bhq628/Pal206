@@ -116,11 +116,6 @@ Kaikkien moduulien testi:
 ssh ei vain ollut asennettuna  
 
 ![SSH](images/ssh-toimii.png)
- 
-2.11.2025 20:  
-2.11.2025 20:  
-2.11.2025 20:  
-2.11.2025 20:  
 
 
 d) Tee sls-tiedosto, joka käyttää vähintään kahta eri tilafunktiota näistä: package, file, service, user. Tarkista eri ohjelmalla, että lopputulos on oikea.  
