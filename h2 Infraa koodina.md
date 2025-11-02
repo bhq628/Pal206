@@ -134,7 +134,7 @@ Testaus, jossa tavallinen sisennys ja syntaksi virhe.
 Lisätty kaksi välilyöntiä viimeisen rivin alkuun, missä tekstiä.  
 ![2-väliä](images/välit2.png)
 
-Testaukset
+Testaukset  
 ![toimii](images/tm.png)  
 ![toimii2](images/toiseen.png)  
 
