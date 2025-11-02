@@ -65,7 +65,8 @@ b) Toppping. Tee top-file, niin että kaikki omat tilasi ajetaan kerralla komenn
 2.11.2025 19:16 sudo touch top.sls  
 2.11.2025 19:27 sudo nano /srv/salt/hello.sls  
 2.11.2025 19:31 sudo nano top.sls  
-
+top.sls kansion sisältö:  
+![top-sls](images/topSLS.png)  
 
 2.11.2025 19:32 ls /srv/salt/  
 2.11.2025 19:38 sudo salt-call --local state.apply  
