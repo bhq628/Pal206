@@ -88,6 +88,7 @@ Uusi syntaksi virhe.
 Lisättiin välejä ennen "tämä on testi"  
 ![Välien korjaus](images/välit.png)  
 
+2.11.2025 20:13 sudo salt-call --local state.apply hello  
 ![Suoritus](images/onnB.png)  
 
 
