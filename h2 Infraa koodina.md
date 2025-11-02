@@ -126,8 +126,11 @@ ssh ei vain ollut asennettuna
 d) Tee sls-tiedosto, joka käyttää vähintään kahta eri tilafunktiota näistä: package, file, service, user. Tarkista eri ohjelmalla, että lopputulos on oikea.  
 -
 2.11.2025 22:30  
-"tupla-init" tiedosto.
-![tupla-init](images/tupla.png)
+"tupla-init" tiedosto.  
+![tupla-init](images/tupla.png)  
+
+Top tiedoston muokkaus:  
+![top-tupla](images/top-tupla.png)  
 
 
 Lähteet: Karvinen, Tero 2024. Hello Salt Infra-as-Code. Luettavissa: https://terokarvinen.com/2024/hello-salt-infra-as-code/  
