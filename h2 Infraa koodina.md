@@ -105,6 +105,9 @@ Viiden tilafunktion init.sls tiedostot:
 ![](images/hellouser.png)  
 ![](images/helloservice.png)  
 ![](images/hellocmd.png)  
+
+Päivitetty top.sls tiedosto:
+![top](images/top-status.png)
 2.11.2025 20:  
 2.11.2025 20:  
 2.11.2025 20:  
