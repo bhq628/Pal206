@@ -96,7 +96,7 @@ c) Tee erilliset esimerkit kustakin viidestä tärkeimmästä tilafunktiosta pkg
 -
 2.11.2025 20:43  
 Luotiin hakemistot:  
-![mkdir](images/mkdir.png)  
+![mkdir](images/mkdir2.png)  
 
 2.11.2025 21:22  
 Viiden tilafunktion init.sls tiedostot:  
