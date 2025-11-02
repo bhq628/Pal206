@@ -99,8 +99,12 @@ Luotiin hakemistot:
 ![mkdir](images/mkdir.png)  
 
 2.11.2025 20:
-5 tilafunktiota:  
-
+Viiden tilafunktion konfiguraatiot (init.sls):  
+![](images/htop.png)  
+![]()  
+![]()  
+![]()  
+![]()  
 2.11.2025 20:
 2.11.2025 20:
 2.11.2025 20:
