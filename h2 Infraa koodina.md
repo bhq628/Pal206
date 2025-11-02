@@ -94,6 +94,15 @@ Lisättiin välejä ennen "tämä on testi"
 
 c) Tee erilliset esimerkit kustakin viidestä tärkeimmästä tilafunktiosta pkg, file, service, user, cmd.  
 -
+2.11.2025 20:40 
+2.11.2025 20:
+2.11.2025 20:
+2.11.2025 20:
+2.11.2025 20:
+2.11.2025 20:
+2.11.2025 20:
+2.11.2025 20:
+
 
 d) Tee sls-tiedosto, joka käyttää vähintään kahta eri tilafunktiota näistä: package, file, service, user. Tarkista eri ohjelmalla, että lopputulos on oikea.  
 -
