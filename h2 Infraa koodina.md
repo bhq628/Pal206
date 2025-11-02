@@ -69,9 +69,13 @@ b) Toppping. Tee top-file, niin että kaikki omat tilasi ajetaan kerralla komenn
 2.11.2025 19:38 sudo salt-call --local state.apply  
 ![Virhe](images/saltr.png)
 
-2.11.2025 
-2.11.2025 
-2.11.2025 
+Syntaksi virhe.
+2.11.2025 19:44 ls
+2.11.2025 19:44 sudo nano hello.sls
+![Korjaus]()
+
+
+
 2.11.2025 
 2.11.2025 
 
