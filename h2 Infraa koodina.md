@@ -72,7 +72,7 @@ b) Toppping. Tee top-file, niin että kaikki omat tilasi ajetaan kerralla komenn
 Syntaksi virhe.
 2.11.2025 19:44 ls
 2.11.2025 19:44 sudo nano hello.sls
-![Korjaus]()
+![Korjaus](images/muutos.png)
 
 
 
