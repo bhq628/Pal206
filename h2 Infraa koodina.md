@@ -67,6 +67,7 @@ b) Toppping. Tee top-file, niin että kaikki omat tilasi ajetaan kerralla komenn
 2.11.2025 19:31 sudo nano top.sls  
 2.11.2025 19:32 ls /srv/salt/  
 2.11.2025 19:38 sudo salt-call --local state.apply  
+![Virhe](images/saltr.png)
 
 2.11.2025 
 2.11.2025 
