@@ -112,6 +112,10 @@ Päivitetty top.sls tiedosto:
 
 Kaikkien moduulien testi:   
 ![kokeilu](images/viim1.png)  
+
+ssh ei vain ollut asennettuna  
+
+![]()
 2.11.2025 20:  
 2.11.2025 20:  
 2.11.2025 20:  
