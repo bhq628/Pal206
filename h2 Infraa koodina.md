@@ -94,10 +94,13 @@ Lisättiin välejä ennen "tämä on testi"
 
 c) Tee erilliset esimerkit kustakin viidestä tärkeimmästä tilafunktiosta pkg, file, service, user, cmd.  
 -
-2.11.2025 20:46  
+2.11.2025 20:43  
 Luotiin hakemistot:  
 ![mkdir](images/mkdir.png)  
+
 2.11.2025 20:
+5 tilafunktiota:  
+
 2.11.2025 20:
 2.11.2025 20:
 2.11.2025 20:
