@@ -26,12 +26,12 @@ Salt contributors: The top file
   - Tilatiedostot: Lista tilatiedostoista, joita käytetään kohteessa. Jokainen tilatiedosto kuvaa yhden tai useamman tilan, jotka otetaan käyttöön.  
 
 Oracle VirtualBox tekniset tiedot  
-Debian 13
-Debian (64-bit)
-20 GB levytila
+Debian 13  
+Debian (64-bit)  
+20 GB levytila  
 4 Ydintä  
 RAM: 4096 MB  
-Verkko: NAT
+Verkko: NAT  
 
 
 a) Hei infrakoodi! Kokeile paikallisesti (esim 'sudo salt-call --local') infraa koodina. Kirjota sls-tiedosto, joka tekee esimerkkitiedoston /tmp/ -kansioon.  
