@@ -46,9 +46,7 @@ Aloitus
 Micro editor avautuu ja sinne lisättiin:  
 /tmp/hellotero:  
 &nbsp;&nbsp;file.managed
-  
-28.10.2025 09:42 Ctrl-s  
-28.10.2025 09:42 Ctrl-q  
+
 28.10.2025 09:45 sudo salt-call --local state.apply hello  
 28.10.2025 09:48 sudoedit init.sls  
 
@@ -57,16 +55,24 @@ Micro editor avautuu ja sinne lisättiin:
 Nano editor avautuu ja tehtiin muokkaus:  
 /tmp/hellotero: file.managed  
 
-2.11.2025 Ctrl-x  
-2.11.2025 sudo salt-call --local state.apply hello  
+2.11.2025 18:27 sudo salt-call --local state.apply hello  
 ![Komento](images/local-state-apply-hello.png)
 
-2.11.2025 
-2.11.2025 
-2.11.2025 
+2.11.2025 19:04 ls /tmp/hellotero  
 
 
 b) Toppping. Tee top-file, niin että kaikki omat tilasi ajetaan kerralla komennolla 'sudo salt-call --local state.apply'.  
+2.11.2025 19:16 sudo touch top.sls  
+2.11.2025 19:27 sudo nano /srv/salt/hello.sls  
+2.11.2025 19:31 sudo nano top.sls  
+2.11.2025 19:32 ls /srv/salt/  
+2.11.2025 19:38 sudo salt-call --local state.apply  
+
+2.11.2025 
+2.11.2025 
+2.11.2025 
+2.11.2025 
+2.11.2025 
 
 c) Tee erilliset esimerkit kustakin viidestä tärkeimmästä tilafunktiosta pkg, file, service, user, cmd.  
 
