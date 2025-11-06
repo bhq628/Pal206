@@ -15,7 +15,7 @@ sudo apt update && sudo apt install vagrant
 6.11.2025 21:06 lsb_release -a  
 6.11.2025 21:06 vagrant --version  
 
-![Vagrant-versio]()
+![Vagrant-versio](images/Vagrant-versio.png)
 
 b) Linux Vagrant. Tee Vagrantilla uusi Linux-virtuaalikone.  
 -
