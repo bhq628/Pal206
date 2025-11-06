@@ -28,6 +28,8 @@ Vagrantfile määritykset kahdelle koneelle:
 
 ![Vagrant-up](images/vagrant-up.png)
 
+![](images/)
+
 
 
 
