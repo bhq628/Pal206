@@ -19,7 +19,7 @@ sudo apt update && sudo apt install vagrant
 
 b) Linux Vagrant. Tee Vagrantilla uusi Linux-virtuaalikone.  
 -
-
+![Vagrant-verkko10](images/Vagrant-verkko10.png)
 
 c)  
 -
