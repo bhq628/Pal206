@@ -28,7 +28,7 @@ Vagrantfile määritykset kahdelle koneelle:
 
 ![Vagrant-up](images/vagrant-up.png)
 
-![](images/)
+![ERROR1](images/vagrant-up-no.png)
 
 
 
