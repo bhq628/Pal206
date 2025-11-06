@@ -26,6 +26,7 @@ Vagrantfile määritykset kahdelle koneelle:
 
 6.11.2025 22:01 sudo apt update  
 
+![Vagrant-up](images/vagrant-up.png)
 
 
 
