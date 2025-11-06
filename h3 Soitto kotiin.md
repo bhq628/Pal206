@@ -28,6 +28,7 @@ Vagrantfile määritykset kahdelle koneelle:
 
 ![Vagrant-up](images/vagrant-up.png)
 
+Virtualisointi on estetty BIOS tasolla.  
 ![ERROR1](images/vagrant-up-no.png)
 
 
