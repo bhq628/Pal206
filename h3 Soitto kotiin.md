@@ -34,7 +34,7 @@ Virtualisointi on estetty BIOS tasolla.
 
 6.11.2025 22:44 Päätin vielä yrittää 32 bittistä debian boxia.  
 
-
+![]()
 
 
 
