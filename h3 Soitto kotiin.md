@@ -21,7 +21,7 @@ b) Linux Vagrant. Tee Vagrantilla uusi Linux-virtuaalikone.
 -
 ![Vagrant-verkko10](images/Vagrant-verkko10.png)
 
-Vagrantfile määritykset kahdelle koneelle:
+Vagrantfile määritykset kahdelle koneelle:  
 ![init-tiedosto](images/Vagrant-file.png)
 
 c)  
