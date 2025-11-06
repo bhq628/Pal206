@@ -24,6 +24,13 @@ b) Linux Vagrant. Tee Vagrantilla uusi Linux-virtuaalikone.
 Vagrantfile määritykset kahdelle koneelle:  
 ![init-tiedosto](images/Vagrant-file2.png)
 
+6.11.2025 22:01 sudo apt update  
+
+
+
+
+
+
 c)  
 -
 
