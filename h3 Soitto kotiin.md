@@ -32,7 +32,7 @@ Virtualisointi on estetty BIOS tasolla.
 ![ERROR1](images/vagrant-up-no.png)
 
 
-Päätin vielä yrittää 32 bittistä debian boxia.  
+6.11.2025 22:44 Päätin vielä yrittää 32 bittistä debian boxia.  
 
 
 
