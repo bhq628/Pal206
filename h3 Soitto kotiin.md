@@ -21,5 +21,7 @@ b) Linux Vagrant. Tee Vagrantilla uusi Linux-virtuaalikone.
 -
 
 
+c)  
+-
 
 Lähteet: Vagrant. https://developer.hashicorp.com/vagrant/install#linux  
