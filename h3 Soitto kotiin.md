@@ -1,5 +1,16 @@
 x)
 
+**Karvinen 2021: Two Machine Virtual Network With Debian 11 Bullseye and Vagrant**  
+Artikkeli ohjeistaa, kuinka asentaa Vagrant, miten määritellä asetukset uusille virtuaalikoneille.  
+
+**Karvinen 2018: Salt Quickstart – Salt Stack Master and Slave on Ubuntu Linux**  
+Nopea ohjeistus siitä, miten Salt Stack herra & orja asennetaan, ja otetaan käyttöön.
+
+**Karvinen 2023: Salt Vagrant - automatically provision one master and two slaves**  
+ - Infra as Code - Your wishes as a text file
+ - top.sls - What Slave Runs What States
+Näissä kohdissa kerrotaan, miten tehdään yksinkertainen tilatiedosto, ja kuinka top.sls tiedostoa käytetään niiden ajamisessa.
+
 
 a)  Vagrant asennus  
 -
