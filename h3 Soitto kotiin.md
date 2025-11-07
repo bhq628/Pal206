@@ -7,9 +7,9 @@ Artikkeli ohjeistaa, kuinka asentaa Vagrant, miten määritellä asetukset uusil
 Nopea ohjeistus siitä, miten Salt Stack herra & orja asennetaan, ja otetaan käyttöön.
 
 **Karvinen 2023: Salt Vagrant - automatically provision one master and two slaves**  
- - Infra as Code - Your wishes as a text file
- - top.sls - What Slave Runs What States
-Näissä kohdissa kerrotaan, miten tehdään yksinkertainen tilatiedosto, ja kuinka top.sls tiedostoa käytetään niiden ajamisessa.
+ - Infra as Code - Your wishes as a text file  
+ - top.sls - What Slave Runs What States  
+Näissä kohdissa kerrotaan, miten tehdään yksinkertainen tilatiedosto, ja kuinka top.sls tiedostoa käytetään niiden ajamisessa.  
 
 
 a)  Vagrant asennus  
