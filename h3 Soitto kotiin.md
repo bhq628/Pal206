@@ -57,8 +57,13 @@ Tämä oli jo ladattuna.
 ![osa2/2](images/VMuut2.png)  
 
 8.11.2025 18:54 vagrant up  
-Uusi virhe, mutta tämä on vain syntaksi virhe.  
+Uusi virhe, mutta tämä on vain syntaksi virhe kohdassa:  
+"config.vm.synched_folder"  
+
+oikein tämä olisi:  
+"config.vm.synced_folder"  
 ![err](images/vagrant-up001.png)  
+
 
 
 c)  
