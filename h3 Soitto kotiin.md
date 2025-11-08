@@ -68,6 +68,7 @@ oikein tämä olisi:
 Mutta tämä ei vieläkään toimi:  
 ![](images/silti.png)
 
+disabloin hyper-V päätietokoneesta.
 
 c)  
 -
