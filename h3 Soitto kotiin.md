@@ -49,7 +49,7 @@ Virtualisointi on estetty BIOS tasolla.
 
 8.11.2025 18:13 sudo apt update  
 8.11.2025 18:15 sudo apt-get update  
-8.11.2025 18:20 sudo atp-get install vagrant virtualbox  
+8.11.2025 18:20 sudo apt-get install vagrant virtualbox  
 Tämä oli jo ladattuna.  
 
 8.11.2025 18:23 Muutin Vagrantin konfigurointi tiedostoa aikaisemmasta.
