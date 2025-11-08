@@ -77,11 +77,11 @@ Yritin etsiä, jos Hyper-V jotenkin estäisi tämän, ja onko se edes päällä 
 Tein muutoksia omaan pääkoneeseeni.  
 Poistin Windowsin ominaisuuden: "Virtual Machine Platform" pois päältä."  
 Pääkoneen CPU on moderni ja siinä pitäisi tervittavat ominaisuudet olla:  
-AMD Ryzen 7 7730U with Radon Graphics  
+AMD Ryzen 7 7730U  
 Pääkoneessa on Windows 11 Home ja BIOS:in sisällä: virtualisation technology = enabled  
-Oracle VirtuaBox asetuksissa nested virtualisaatio on päällä.
-Yritin löytää ratkaisuja virtuaalikoneen sisällä eri sovelluksista, mutta näillä ei lopuksi ollut merkitystä.  
-En löytänyt syytä, mikä todellisesti estää nested virtuaalisoinnin.  
+Oracle VirtuaBox asetuksissa nested virtualisointi on päällä.
+Yritin löytää ratkaisuja virtuaalikoneen sisällä eri sovelluksista, kernel moduuleista, mutta näillä ei lopuksi ollut merkitystä.  
+En löytänyt syytä, mikä todellisesti estää nested virtualisoinnin.  
 Tässä mahdollisesti hyödyllistä tietoa asetuksistani:  
 
 ![](images/CMD-WIN11.png)  
