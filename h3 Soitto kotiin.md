@@ -90,5 +90,13 @@ Loppu.
 c)  
 -
 
+d)
+-
+
+e)
+-
+
+
+
 Lähteet: Vagrant. Install Vagrant. Luettavissa: https://developer.hashicorp.com/vagrant/install#linux  
 Karvinen, Tero 2021. Two Machine Virtual Network With Debian 11 Bullseye and Vagrant. Luettavissa: https://terokarvinen.com/2021/two-machine-virtual-network-with-debian-11-bullseye-and-vagrant/  
