@@ -50,10 +50,11 @@ Virtualisointi on estetty BIOS tasolla.
 8.11.2025 18:13 sudo apt update  
 8.11.2025 18:15 sudo apt-get update  
 8.11.2025 18:20 sudo atp-get install vagrant virtualbox  
-![]()  
-8.11.2025 18:23 Muutin Vagrant konfigurointi tiedostoa.
-![]()  
-![]()  
+Tämä oli jo ladattuna.  
+
+8.11.2025 18:23 Muutin Vagrantin konfigurointi tiedostoa.
+![osa1/2](images/VMuut1.png)  
+![osa2/2](images/VMuut2.png)  
 
 
 c)  
