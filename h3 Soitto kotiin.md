@@ -78,7 +78,7 @@ Tein muutoksia omaan pääkoneeseeni.
 Poistin Windowsin ominaisuuden: "Virtual Machine Platform" pois päältä."  
 Pääkoneen CPU on moderni ja siinä pitäisi tervittavat ominaisuudet olla:  
 AMD Ryzen 7 7730U  
-Pääkoneessa on Windows 11 Home ja BIOS:in sisällä: virtualisation technology = enabled  
+Pääkoneessa on Windows 11 Home ja BIOS:in sisällä: virtualization technology = enabled  
 Oracle VirtuaBox asetuksissa nested virtualisointi on päällä.
 Yritin löytää ratkaisuja virtuaalikoneen sisällä eri sovelluksista, kernel moduuleista, mutta näillä ei lopuksi ollut merkitystä.  
 En löytänyt syytä, mikä todellisesti estää nested virtualisoinnin.  
