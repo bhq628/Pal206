@@ -52,7 +52,7 @@ Virtualisointi on estetty BIOS tasolla.
 8.11.2025 18:20 sudo atp-get install vagrant virtualbox  
 Tämä oli jo ladattuna.  
 
-8.11.2025 18:23 Muutin Vagrantin konfigurointi tiedostoa.
+8.11.2025 18:23 Muutin Vagrantin konfigurointi tiedostoa aikaisemmasta.
 ![osa1/2](images/VMuut1.png)  
 ![osa2/2](images/VMuut2.png)  
 
