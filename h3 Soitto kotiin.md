@@ -82,7 +82,7 @@ Yritin löytää ratkaisuja virtuaalikoneen sisällä eri sovelluksista, mutta n
 En löytänyt syytä, mikä todellisesti estää nested virtuaalisoinnin.  
 
 ![](images/CMD-WIN11.png)  
-![]()
+![](images/VM-Platform.png)
 
 Loppu.
 
