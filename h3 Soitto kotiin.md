@@ -57,7 +57,7 @@ Tämä oli jo ladattuna.
 ![osa2/2](images/VMuut2.png)  
 
 8.11.2025 18:54 vagrant up  
-Uusi virhe:  
+Uusi virhe, mutta tämä on vain syntaksi virhe.  
 ![err](images/vagrant-up001.png)  
 
 
