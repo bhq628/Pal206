@@ -60,7 +60,7 @@ Tämä oli jo ladattuna.
 Uusi virhe, mutta tämä on vain syntaksi virhe kohdassa:  
 "config.vm.synched_folder"  
 
-oikein tämä olisi:  
+Oikein tämä olisi:  
 "config.vm.synced_folder"  
 ![err](images/vagrant-up001.png)  
 
@@ -76,7 +76,7 @@ Yritin etsiä, jos Hyper-V jotenkin estäisi tämän, ja onko se edes päällä 
 
 Tein muutoksia omaan pääkoneeseeni.  
 Poistin Windowsin ominaisuuden: "Virtual Machine Platform" pois päältä."  
-Pääkoneeen CPU on moderni ja siinä pitäisi tervittavat ominaisuudet olla:  
+Pääkoneen CPU on moderni ja siinä pitäisi tervittavat ominaisuudet olla:  
 AMD Ryzen 7 7730U with Radon Graphics  
 Pääkoneessa on Windows 11 Home ja BIOS:in sisällä: virtualisation technology = enabled  
 Oracle VirtuaBox asetuksissa nested virtualisaatio on päällä.
@@ -109,5 +109,6 @@ e)
 
 
 
-Lähteet: Vagrant. Install Vagrant. Luettavissa: https://developer.hashicorp.com/vagrant/install#linux  
+Lähteet: 
+Vagrant. Install Vagrant. Luettavissa: https://developer.hashicorp.com/vagrant/install#linux  
 Karvinen, Tero 2021. Two Machine Virtual Network With Debian 11 Bullseye and Vagrant. Luettavissa: https://terokarvinen.com/2021/two-machine-virtual-network-with-debian-11-bullseye-and-vagrant/  
