@@ -68,9 +68,26 @@ oikein tämä olisi:
 Mutta tämä ei vieläkään toimi:  
 ![](images/silti.png)
 
-disabloin hyper-V päätietokoneesta.
+8.11.2025 20:28 sudo apt update  
+8.11.2025 20:28 sudo apt install qemu-kvm libvirt-daemon-system libvirt-clients bridge-utils virt-manager cpu-checker  
+
+Yritin löytää syitä miksi nested virtualisointi ei toimi.   
+Yritin etsiä, jos Hyper-V jotenkin estäisi tämän, ja onko se edes päällä tai olemassa.  
+Poistin Windowsin ominaisuuden: "Virtual Machine Platform" pois päältä."  
+Pääkoneeen CPU on moderni ja siinä pitäisi tervittavat ominaisuudet olla:  
+AMD Ryzen 7 7730U with Radon Graphics  
+Pääkoneessa on Windows 11 Home ja BIOS:in sisällä: virtualisation technology = enabled  
+Oracle VirtuaBox asetuksissa nested virtualisaatio on päällä.
+Yritin löytää ratkaisuja virtuaalikoneen sisällä eri sovelluksista, mutta näillä ei lopuksi ollut merkitystä.  
+En löytänyt syytä, mikä todellisesti estää nested virtuaalisoinnin.  
+
+![]()
+
+Loppu.
+
 
 c)  
 -
 
-Lähteet: Vagrant. https://developer.hashicorp.com/vagrant/install#linux  
+Lähteet: Vagrant. Install Vagrant. Luettavissa: https://developer.hashicorp.com/vagrant/install#linux  
+Karvinen, Tero 2021. Two Machine Virtual Network With Debian 11 Bullseye and Vagrant. Luettavissa: https://terokarvinen.com/2021/two-machine-virtual-network-with-debian-11-bullseye-and-vagrant/  
