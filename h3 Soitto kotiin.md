@@ -73,6 +73,8 @@ Mutta tämä ei vieläkään toimi:
 
 Yritin löytää syitä miksi nested virtualisointi ei toimi.   
 Yritin etsiä, jos Hyper-V jotenkin estäisi tämän, ja onko se edes päällä tai olemassa.  
+
+Tein muutoksia omaan pääkoneeseeni.  
 Poistin Windowsin ominaisuuden: "Virtual Machine Platform" pois päältä."  
 Pääkoneeen CPU on moderni ja siinä pitäisi tervittavat ominaisuudet olla:  
 AMD Ryzen 7 7730U with Radon Graphics  
