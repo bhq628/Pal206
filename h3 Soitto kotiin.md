@@ -47,6 +47,13 @@ Virtualisointi on estetty BIOS tasolla.
 
 ![Muutos](images/Vag-muutos.png)
 
+8.11.2025 18:13 sudo apt update  
+8.11.2025 18:15 sudo apt-get update  
+8.11.2025 18:20 sudo atp-get install vagrant virtualbox  
+![]()  
+8.11.2025 18:23 Muutin Vagrant konfigurointi tiedostoa.
+![]()  
+![]()  
 
 
 c)  
