@@ -81,6 +81,7 @@ Oracle VirtuaBox asetuksissa nested virtualisaatio on päällä.
 Yritin löytää ratkaisuja virtuaalikoneen sisällä eri sovelluksista, mutta näillä ei lopuksi ollut merkitystä.  
 En löytänyt syytä, mikä todellisesti estää nested virtuaalisoinnin.  
 
+![](images/CMD-WIN11.png)  
 ![]()
 
 Loppu.
