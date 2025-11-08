@@ -56,6 +56,8 @@ Tämä oli jo ladattuna.
 ![osa1/2](images/VMuut1.png)  
 ![osa2/2](images/VMuut2.png)  
 
+8.11.2025 18:54 vagrant up  
+
 
 c)  
 -
