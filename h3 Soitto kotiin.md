@@ -65,6 +65,9 @@ oikein tämä olisi:
 ![err](images/vagrant-up001.png)  
 
 
+Mutta tämä ei vieläkään toimi:  
+![](images/silti.png)
+
 
 c)  
 -
