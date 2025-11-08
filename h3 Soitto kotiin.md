@@ -82,9 +82,18 @@ Pääkoneessa on Windows 11 Home ja BIOS:in sisällä: virtualisation technology
 Oracle VirtuaBox asetuksissa nested virtualisaatio on päällä.
 Yritin löytää ratkaisuja virtuaalikoneen sisällä eri sovelluksista, mutta näillä ei lopuksi ollut merkitystä.  
 En löytänyt syytä, mikä todellisesti estää nested virtuaalisoinnin.  
+Tässä mahdollisesti hyödyllistä tietoa asetuksistani:  
 
 ![](images/CMD-WIN11.png)  
-![](images/VM-Platform.png)
+![](images/VM-Platform.png)  
+
+![](images/OR1.png)  
+![](images/OR2.png)  
+![](images/OR3.png)  
+
+![](images/AD1.png)  
+![](images/AD2.png)  
+
 
 Loppu.
 
