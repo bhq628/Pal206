@@ -1,3 +1,7 @@
+Tässä on aluksi virheellinen tapaus, jossa ongelmana oli virtualisaation yritys virtuaalikoneen sisällä.  
+
+Tässä toimiva versio tehtävästä:  
+
 x)
 
 **Karvinen 2021: Two Machine Virtual Network With Debian 11 Bullseye and Vagrant**  
