@@ -1,6 +1,6 @@
 Tässä on aluksi virheellinen tapaus, jossa ongelmana oli virtualisaation yritys virtuaalikoneen sisällä.  
 
-Tässä toimiva versio tehtävästä:  
+Tässä uusi toimiva versio tehtävästä:  
 
 x)
 
