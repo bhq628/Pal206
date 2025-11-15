@@ -6,7 +6,7 @@ Artikelissa kerrotaan, miten Saltin avulla voidaan ohjata useita eri prosesseja 
 - Package-file-service on yleisin malli tähän tarkoitukseen.  
 - Tässä näytetään Salt-tila SSH-palvelimen portin vaihtamiseksi.  
 
-a)
+a) SSHouto. Lisää uusi portti, jossa SSHd kuuntelee  
 -
 
 
