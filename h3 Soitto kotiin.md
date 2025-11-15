@@ -120,7 +120,9 @@ a) Vagrant asennus
 Windows 11 pääkoneellani latasin Hashicorpin Vagrant 64-bittisen version (AMD64)  
 ![Vagrant-versio-w](images/Shell.png)
 
-b)  
+b) Tee Vagrantilla uusi Linux-virtuaalikone  
+-
+
 
 c)  
 
