@@ -10,7 +10,8 @@ a) SSHouto. Lisää uusi portti, jossa SSHd kuuntelee
 -
 
 sudo nano /etc/ssh/sshd_config
-
+![](images/sshd-er1.png)
+![](images/sshd-er2.png)
 
 
 Lähteet:
