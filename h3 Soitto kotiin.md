@@ -143,6 +143,31 @@ kone_2
 
 
 d)  
+-
+
+Otin ssh yhteyden ja asensin Salt masterin koneelle vm1.
+
+sudo apt update  
+sudo apt upgrade  
+sudo apt install salt-master  
+(Error)  
+
+sudo apt install curl gnupg2 lsb-release  
+
+Tässä vaiheessa DNS:n kanssa alkoi tulla ongelmia.  
+Ilman seuraavaa väliaikaista korjausta en saisi Salt-masteria toimimaan.  
+
+echo -e "nameserver 8.8.8.8\nnameserver 8.8.4.4" | sudo tee /etc/resolv.conf > /dev/null  
+ping -c 3 google.com  
+echo "13.35.156.119 d39c38qjhaa4za.cloudfront.net" | sudo tee -a /etc/hosts
+curl -o SALT-PROJECT-GPG-PUBKEY-2023.pub https://repo.saltproject.io/salt/py3/debian/12/amd64/latest/SALT-PROJECT-GPG-PUBKEY-2023.pub
+
+En millään saanut avainta normaaliin tapaan, joten päätin ladata avaimen ensin pääkoneelleni ja sieltä sijoittaa sen virtuaalikoneille.
+
+isäntä ei voi selvittää Salt-projektin verkkotunnusta.
+-
+
+
 
 e)  
 
