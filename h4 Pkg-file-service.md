@@ -9,6 +9,8 @@ Artikelissa kerrotaan, miten Saltin avulla voidaan ohjata useita eri prosesseja 
 a) SSHouto. Lisää uusi portti, jossa SSHd kuuntelee  
 -
 
+sudo nano /etc/ssh/sshd_config
+
 
 
 Lähteet:
