@@ -123,6 +123,8 @@ Windows 11 pääkoneellani latasin Hashicorpin Vagrant 64-bittisen version (AMD6
 b) Tee Vagrantilla uusi Linux-virtuaalikone  
 -
 
+![](images/proj2.png)  
+![](images/notepad.png)  
 
 c)  
 
