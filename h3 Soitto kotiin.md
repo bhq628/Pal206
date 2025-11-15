@@ -124,7 +124,7 @@ Windows 11 pääkoneellani latasin Hashicorpin Vagrant 64-bittisen version (AMD6
 b) Tee Vagrantilla uusi Linux-virtuaalikone  
 -
 
-Tein perusasetukset ja tämän jälkeen muokkasin VagranTIEDOSTOA(mikä?)  
+Tein hakemiston ja tämän jälkeen tein asetukset virtuaalikoneille. 
 ![](images/proj2.png)  
 ![](images/notepad.png)  
 
