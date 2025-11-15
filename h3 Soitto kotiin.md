@@ -115,7 +115,18 @@ e)
 
 [Takaisin ylös](#versio1)
 ## versio2
+a) Vagrant asennus  
+-
+Windows 11 pääkoneellani latasin hashicorpin vagrant 64 bittisen version (AMD64)  
+![Vagrant-versio-w]()
 
+b)  
+
+c)  
+
+d)  
+
+e)  
 
 Lähteet: 
 Vagrant. Install Vagrant. Luettavissa: https://developer.hashicorp.com/vagrant/install#linux  
