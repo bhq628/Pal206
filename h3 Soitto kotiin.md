@@ -1,6 +1,5 @@
-Tässä on aluksi virheellinen tapaus, jossa ongelmana oli virtualisaation yritys virtuaalikoneen sisällä.  
-
-Tässä uusi toimiva versio tehtävästä: [Uusi versio](#versio2)
+Tässä on aluksi tekemäni virheellinen tapaus, jossa ongelmana oli virtualisaation yritys virtuaalikoneen sisällä.  
+Uuden ja toimivan version tehtävästä löydät täältä: [Uusi versio](#versio2)
 
 x)
 
