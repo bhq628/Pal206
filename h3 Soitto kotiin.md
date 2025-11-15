@@ -135,7 +135,7 @@ c) Kahden Linux-tietokoneen verkko Vagrantilla
 -
 
 Kahden koneen verkko:  
-![ping1]()
+![ping1](images/vm1-ping.png)
 ![ping2]()
 
 
