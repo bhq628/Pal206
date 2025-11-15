@@ -128,7 +128,8 @@ Tein perusasetukset ja tämän jälkeen muokkasin VagranTIEDOSTOA(mikä?)
 ![](images/proj2.png)  
 ![](images/notepad.png)  
 
-
+Vagrantfile:  
+![Vagrantfile](images/Vagrantfile-setup.png)
 
 c)  
 
