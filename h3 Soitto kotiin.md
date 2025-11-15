@@ -1,5 +1,6 @@
 Tässä on aluksi tekemäni virheellinen tapaus, jossa ongelmana oli virtualisaation yritys virtuaalikoneen sisällä.  
 Uuden ja toimivan version tehtävästä löydät täältä: [Uusi versio](#versio2)
+## versio1
 
 x)
 
@@ -112,7 +113,7 @@ e)
 -
 ---------------------------------------------------------------------------------------------------------------------
 
-
+[Takaisin ylös](#versio1)
 ## versio2
 
 
