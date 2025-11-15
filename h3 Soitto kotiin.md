@@ -131,7 +131,13 @@ Tein perusasetukset ja tämän jälkeen muokkasin VagranTIEDOSTOA(mikä?)
 Vagrantfile:  
 ![Vagrantfile](images/Vagrantfile-setup.png)
 
-c)  
+c) Kahden Linux-tietokoneen verkko Vagrantilla  
+-
+
+Kahden koneen verkko:  
+![ping1]()
+![ping2]()
+
 
 d)  
 
