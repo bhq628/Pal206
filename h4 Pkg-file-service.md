@@ -23,6 +23,8 @@ sshd:
  service.running:  
    - watch:  
      - file: /etc/ssh/sshd_config
+    
+(ei tismallinen sisennys)
 
 
 
