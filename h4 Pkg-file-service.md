@@ -30,9 +30,9 @@ Huomasin myös pienen typon:
 ![typo](images/typo.png)
 
 
-sudo mkdir /run/sshd
-sudo chmod 755 /run/sshd
-sudo sshd -t
+sudo mkdir /run/sshd  
+sudo chmod 755 /run/sshd  
+sudo sshd -t  
 
 kopion toimivan tiedoston:  
 sudo cp /etc/ssh/sshd_config /srv/salt/sshd_config  
