@@ -9,9 +9,8 @@ Artikelissa kerrotaan, miten Saltin avulla voidaan ohjata useita eri prosesseja 
 a) SSHouto. Lisää uusi portti, jossa SSHd kuuntelee  
 -
 
-Muokkasin tiedostoa /srv/salt/sshd_config  
+Muokkasin tiedostoa /etc/ssh/sshd_config
 Porttejen arvot ovat 2222 ja 8888  
-(Katsoin aluksi väärää tiedostoa /etc/ssh/sshd_config)  
 
 
 Virhe tuli muutamiin kohtiin, ja vaihdoin nämä.
@@ -35,7 +34,11 @@ sudo mkdir /run/sshd
 sudo chmod 755 /run/sshd
 sudo sshd -t
 
+kopion toimivan tiedoston:  
+sudo cp /etc/ssh/sshd_config /srv/salt/sshd_config  
+sudo chmod 644 /srv/salt/sshd_config  
 
+![]()
 
 Lähteet:
 Karvinen, Tero 2018. Pkg-File-Service – Control Daemons with Salt – Change SSH Server Port. Luettavissa: https://terokarvinen.com/2018/04/03/pkg-file-service-control-daemons-with-salt-change-ssh-server-port/?fromSearch=karvinen%20salt%20ssh  
