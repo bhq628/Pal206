@@ -1,7 +1,7 @@
 x)
 h4 Pkg-file-service
 
-Artikelissa kerrotaan, miten Saltin avulla voidaan ohjata useita eri prosesseja samaan aikaan.  
+Artikkelissa kerrotaan, miten Saltin avulla voidaan ohjata useita eri prosesseja samaan aikaan.  
 
 - Package-file-service on yleisin malli tähän tarkoitukseen.  
 - Tässä näytetään Salt-tila SSH-palvelimen portin vaihtamiseksi.  
