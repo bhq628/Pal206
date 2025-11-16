@@ -9,6 +9,23 @@ Artikkelissa kerrotaan, miten Saltin avulla voidaan ohjata useita eri prosesseja
 a) SSHouto. Lisää uusi portti, jossa SSHd kuuntelee  
 -
 
+
+Tein salt tilatiedoston sshd:lle  
+/srv/salt/sshd.sls  
+
+
+openssh-server:  
+ pkg.installed  
+/etc/ssh/sshd_config:  
+ file.managed:  
+   - source: salt://sshd_config  
+sshd:  
+ service.running:  
+   - watch:  
+     - file: /etc/ssh/sshd_config
+
+
+
 Muokkasin tiedostoa /etc/ssh/sshd_config  
 Porttejen arvot ovat 2222 ja 8888  
 
