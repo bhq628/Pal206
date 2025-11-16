@@ -9,7 +9,7 @@ Artikelissa kerrotaan, miten Saltin avulla voidaan ohjata useita eri prosesseja 
 a) SSHouto. Lisää uusi portti, jossa SSHd kuuntelee  
 -
 
-Muokkasin tiedostoa /etc/ssh/sshd_config
+Muokkasin tiedostoa /etc/ssh/sshd_config  
 Porttejen arvot ovat 2222 ja 8888  
 
 
