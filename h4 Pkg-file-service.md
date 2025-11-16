@@ -31,6 +31,10 @@ Huomasin myös pienen typon:
 ![typo](images/typo.png)
 
 
+sudo mkdir /run/sshd
+sudo chmod 755 /run/sshd
+sudo sshd -t
+
 
 
 Lähteet:
