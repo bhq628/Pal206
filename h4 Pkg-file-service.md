@@ -41,6 +41,8 @@ sudo chmod 644 /srv/salt/sshd_config
 ![](images/Fin.png)
 
 Tein vielä testauksia, jos /etc/ssh/sshd_config olisi muuttunut:  
+![](images/break-it.png)
+
 ![]()
 ![]()
 
