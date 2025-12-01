@@ -185,8 +185,8 @@ Mennä herralle ja hyväksyä avain orjalta.
 Herra koneessa on olettaen puutteita, mutta kyse on täysin vain saltin asennuksesta.  
 Herralle pitäisi tehdä salt-tiloja ja myös top tiedosto.  
 Lisätä top tiedostoon .sls tiedostojen nimet ja käskeä nämä käytettäväksi orja koneessa.  
-
-
+<br>
+<br>
 Lähteet: 
 Vagrant. Install Vagrant. Luettavissa: https://developer.hashicorp.com/vagrant/install#linux  
 Karvinen, Tero 2021. Two Machine Virtual Network With Debian 11 Bullseye and Vagrant. Luettavissa: https://terokarvinen.com/2021/two-machine-virtual-network-with-debian-11-bullseye-and-vagrant/  
