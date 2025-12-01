@@ -169,8 +169,20 @@ isäntä ei voi selvittää Salt-projektin verkkotunnusta.
 
 e)  ---------
 
+
+
+
+
+
 Ongelma liittyi saltin asennuksen puutteeseen.  
-Edes salt-minion tai sen tarvitsemat moduulit eivät olleet asennettuna.  
+Edes salt-minion tai sen tarvitsemat työkalut eivät olleet asennettuna.  
+Seuraavaksi olisi tarkoitus mennä vm2 etc/salt/minion ja kertoa herran IP.  
+Käynnistää orja uudestaan.  
+Mennä herralle ja hyväksyä avain orjalta.  
+Herra koneessa on olettaen puutteita, mutta kyse on täysin vain saltin asennuksesta.  
+Herralle pitäisi tehdä salt-tiloja ja myös top tiedosto.  
+Lisätä top tiedostoon .sls tiedostojen nimet ja käskeä nämä käytettäväksi orja koneessa.  
+
 
 Lähteet: 
 Vagrant. Install Vagrant. Luettavissa: https://developer.hashicorp.com/vagrant/install#linux  
