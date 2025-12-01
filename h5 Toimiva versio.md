@@ -13,12 +13,12 @@ Gitissä on mahdotonta muokata tiedosta ilman, että Git ei tietäisi siitä.
 
 - Suolax  
 Suolax muutoksissa on tehty:  
-Aluksi readme.md ja tämän sisältö.  
-Hello world salt-tila.  
-Lisätty salt-tila, jossa paketti "tree" sisältö on asennettu.
-Lisätty top tiedosto.
-Make oikotie lisäys. Tämän avulla otetaan käyttöön kaikki paketit.  
-Readme.md siistiminen.  
+- Aluksi readme.md ja tämän sisältö.  
+- Hello world salt-tila.  
+- Lisätty salt-tila, jossa paketti "tree" sisältö on asennettu.
+- Lisätty top tiedosto.
+- Make oikotie lisäys. Tämän avulla otetaan käyttöön kaikki paketit.  
+- Readme.md siistiminen.  
 
 
 a) Tee uusi varasto  
