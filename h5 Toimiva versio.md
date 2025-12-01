@@ -9,5 +9,11 @@ Uusi repo
 ![](images/H5-snow.png)
 
 
-Tein vagrantilla uuden koneen.  
+b) Kloonaa varasto
+-
+
+Tein vagrantilla uuden koneen ja asensin Gitin.  
+Tänne tulen kloonaamaan Github sivuni.  
 ![](images/git-version-png.png)
+
+
