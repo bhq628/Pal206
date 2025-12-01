@@ -27,7 +27,7 @@ Tein muutoksia ja nämä säilytetään.
 ![](images/muutoksia-git.png)
 
 Nämä toin Githubin puolelle.  
-![]()
+![](images/git-push.png)
 
 c) Tuhoa huonot muutokset  
 -
