@@ -11,7 +11,9 @@ Gitissä on mahdotonta muokata tiedosta ilman, että Git ei tietäisi siitä.
 "git pull" vetää varastosta muutokset, jos niitä joku muu on ehtinyt muokkaamaan ennen sinua. 
 "git push" työntää tehdyt muutoksesi gittiin. Tämän jälkeen muut näkevät tehdyt muutoksesi.  
 
-- Suolax  
+Suolax
+-
+
 Suolax muutoksissa on tehty:  
 - Aluksi readme.md ja tämän sisältö.  
 - Hello world salt-tila.  
