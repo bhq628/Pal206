@@ -38,4 +38,8 @@ Tein muutoksia, mutta nämä peruutetaan.
 ![](images/poista-tämä.png)
 
 
+
+d) Tarkastele ja selitä varastosi lokia
+-
+
 ![]()
