@@ -42,4 +42,5 @@ Tein muutoksia, mutta nämä peruutetaan.
 d) Tarkastele ja selitä varastosi lokia
 -
 
+Tässä näkyy tehdyt commit viestit, nimi ja sähköpostini.  
 ![](images/git-log.png)
