@@ -26,7 +26,7 @@ Tänne tulen kloonaamaan Github sivuni.
 Tein muutoksen ja tämä säilytetään.  
 ![](images/muutoksia-git.png)
 
-Nämä toin Githubin puolelle.  
+Tämän toin Githubin puolelle.  
 ![](images/git-push.png)
 
 c) Tuhoa huonot muutokset  
