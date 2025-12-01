@@ -42,4 +42,4 @@ Tein muutoksia, mutta nämä peruutetaan.
 d) Tarkastele ja selitä varastosi lokia
 -
 
-![]()
+![](images/git-log.png)
