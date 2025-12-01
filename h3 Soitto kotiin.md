@@ -1,5 +1,5 @@
 Tässä on aluksi tekemäni virheellinen tapaus, jossa ongelmana oli virtualisaation yritys virtuaalikoneen sisällä.  
-Uuden ja toimivan version tehtävästä löydät täältä: [Uusi versio](#versio2)
+Uuden ja paremmin toimivan version tehtävästä löydät täältä: [Uusi versio](#versio2)
 ## versio1
 
 x)
@@ -165,11 +165,9 @@ curl -o SALT-PROJECT-GPG-PUBKEY-2023.pub https://repo.saltproject.io/salt/py3/de
 En millään saanut avainta normaaliin tapaan, joten päätin ladata avaimen ensin pääkoneelleni ja sieltä sijoittaa sen virtuaalikoneille.
 
 isäntä ei voi selvittää Salt-projektin verkkotunnusta.
--
 
 
-
-e)  
+e)  ---------
 
 Lähteet: 
 Vagrant. Install Vagrant. Luettavissa: https://developer.hashicorp.com/vagrant/install#linux  
