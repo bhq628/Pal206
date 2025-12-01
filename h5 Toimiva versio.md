@@ -49,3 +49,5 @@ Tässä näkyy tehdyt commit viestit, nimi ja sähköpostini.
 e)  Aja Salt-tiloja omasta varastostasi  
 -
 
+![]()
+![]()
