@@ -9,7 +9,7 @@ Uusi repo
 ![](images/H5-snow.png)
 
 
-b) Kloonaa varasto
+b) Kloonaa varasto ja tee muutoksia
 -
 
 Tein vagrantilla uuden koneen ja asensin Gitin.  
@@ -23,5 +23,13 @@ Tänne tulen kloonaamaan Github sivuni.
 ![](images/ls-h5.png)
 
 
-Tein muutoksia, mutta nämä peruutetaan.  
+Tein muutoksia ja nämä säilytetään.  
 ![](images/muutoksia-git.png)
+
+
+
+c) Tuhoa huonot muutokset  
+-
+
+Tein muutoksia, mutta nämä peruutetaan. 
+![]()
