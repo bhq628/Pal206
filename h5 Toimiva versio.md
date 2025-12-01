@@ -22,3 +22,6 @@ Tänne tulen kloonaamaan Github sivuni.
 
 ![](images/ls-h5.png)
 
+
+Tein muutoksia, mutta nämä peruutetaan.  
+![](images/muutoksia-git.png)
