@@ -2,8 +2,8 @@ x) Tiivistelmä
 
 Chacon and Straub 2014. Pro Git
 -
-Kirja kertoo Git versionhallinnasta, ja kuinka käyttää sitä.
-Git toimii suurimmalta osin paikallisesti.
+Kirja kertoo Git versionhallinnasta, ja kuinka käyttää sitä.  
+Git toimii suurimmalta osin paikallisesti.  
 Gitissä on mahdotonta muokata tiedosta ilman, että Git ei tietäisi siitä.  
 
 Gitin käyttö  
@@ -19,8 +19,8 @@ Suolax
 Suolax muutoksissa on tehty:  
 - Aluksi readme.md ja tämän sisältö.  
 - Hello world salt-tila.  
-- Lisätty salt-tila, jossa paketti "tree" sisältö on asennettu.
-- Lisätty top tiedosto.
+- Lisätty salt-tila, jossa paketti "tree" sisältö on asennettu.  
+- Lisätty top tiedosto.  
 - Make oikotie lisäys. Tämän avulla otetaan käyttöön kaikki paketit.  
 - Readme.md siistiminen.  
 
