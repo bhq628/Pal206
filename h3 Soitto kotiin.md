@@ -177,14 +177,14 @@ e)  -------------------------
 <br>
 <br>
 <br>
-Ongelma liittyi saltin asennuksen puutteeseen.  
-Edes salt-minion tai sen tarvitsemat työkalut eivät olleet asennettuna.  
-Seuraavaksi olisi tarkoitus mennä vm2 etc/salt/minion ja kertoa herran IP.  
-Käynnistää orja uudestaan.  
-Mennä herralle ja hyväksyä avain orjalta.  
-Herra koneessa on olettaen puutteita, mutta kyse on täysin vain saltin asennuksesta.  
-Herralle pitäisi tehdä salt-tiloja ja myös top tiedosto.  
-Lisätä top tiedostoon .sls tiedostojen nimet ja käskeä nämä käytettäväksi orja koneessa.  
+Ongelma liittyi saltin asennuksen puutteeseen.  <br>
+Edes salt-minion tai sen tarvitsemat työkalut eivät olleet asennettuna.  <br>
+Seuraavaksi olisi tarkoitus mennä vm2 etc/salt/minion ja kertoa herran IP.  <br>
+Käynnistää orja uudestaan.  <br>
+Mennä herralle ja hyväksyä avain orjalta.  <br>
+Herra koneessa on olettaen puutteita, mutta kyse on täysin vain saltin asennuksesta.  <br>
+Herralle pitäisi tehdä salt-tiloja ja myös top tiedosto.  <br>
+Lisätä top tiedostoon .sls tiedostojen nimet ja käskeä nämä käytettäväksi orja koneessa.  <br>
 <br>
 <br>
 Lähteet: 
