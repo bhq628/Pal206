@@ -23,7 +23,7 @@ Tänne tulen kloonaamaan Github sivuni.
 ![](images/ls-h5.png)
 
 
-Tein muutoksia ja nämä säilytetään.  
+Tein muutoksen ja tämä säilytetään.  
 ![](images/muutoksia-git.png)
 
 Nämä toin Githubin puolelle.  
