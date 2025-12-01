@@ -32,7 +32,7 @@ Tämän toin Githubin puolelle.
 c) Tuhoa huonot muutokset  
 -
 
-Tein muutoksia, mutta nämä peruutetaan. 
+Tein muutoksia, mutta nämä peruutetaan.  
 ![](images/poista-tämä.png)
 
 
