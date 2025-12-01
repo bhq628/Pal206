@@ -32,6 +32,8 @@ Tämän toin Githubin puolelle.
 c) Tuhoa huonot muutokset  
 -
 
+![](images/clean-fd.png)
+
 Tein muutoksia, mutta nämä peruutetaan.  
 ![](images/poista-tämä.png)
 
