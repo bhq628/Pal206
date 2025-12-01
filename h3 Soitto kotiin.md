@@ -168,12 +168,12 @@ isäntä ei voi selvittää Salt-projektin verkkotunnusta.
 
 
 e)  ---------
-
-
-
-
-
-
+  
+  
+  
+  
+  
+  
 Ongelma liittyi saltin asennuksen puutteeseen.  
 Edes salt-minion tai sen tarvitsemat työkalut eivät olleet asennettuna.  
 Seuraavaksi olisi tarkoitus mennä vm2 etc/salt/minion ja kertoa herran IP.  
