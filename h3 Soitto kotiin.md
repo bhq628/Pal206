@@ -169,6 +169,9 @@ isäntä ei voi selvittää Salt-projektin verkkotunnusta.
 
 e)  ---------
 
+Ongelma liittyi saltin asennuksen puutteeseen.  
+Edes salt-minion tai sen tarvitsemat moduulit eivät olleet asennettuna.  
+
 Lähteet: 
 Vagrant. Install Vagrant. Luettavissa: https://developer.hashicorp.com/vagrant/install#linux  
 Karvinen, Tero 2021. Two Machine Virtual Network With Debian 11 Bullseye and Vagrant. Luettavissa: https://terokarvinen.com/2021/two-machine-virtual-network-with-debian-11-bullseye-and-vagrant/  
