@@ -50,4 +50,5 @@ e)  Aja Salt-tiloja omasta varastostasi
 -
 
 ![](images/h5-call.png)
-![]()
+
+![](images/example-sls.png)
