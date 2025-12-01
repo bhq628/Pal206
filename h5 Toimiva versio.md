@@ -1,11 +1,13 @@
 x) Tiivistelmä  
 
-- Chacon and Straub 2014. Pro Git  
+Chacon and Straub 2014. Pro Git
+-
 Kirja kertoo Git versionhallinnasta, ja kuinka käyttää sitä.
 Git toimii suurimmalta osin paikallisesti.
 Gitissä on mahdotonta muokata tiedosta ilman, että Git ei tietäisi siitä.  
 
-- Gitin käyttö  
+Gitin käyttö  
+-
 "git add ." on alkuvaihe, jossa tehdyt muutokset merkataan valmistelualueelle.  
 "git commit" on paikallinen tallennus tehdyistä muutoksista, jotka on esitetty "git add ." komennon avulla.  
 "git pull" vetää varastosta muutokset, jos niitä joku muu on ehtinyt muokkaamaan ennen sinua. 
